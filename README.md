@@ -1,6 +1,6 @@
-# OH YE CHAN 🐶
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foycoyj2&count_bg=%23703EB1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+# 🌱OH YE CHAN 
+삶의 여정을 만끽하는 중. 지금에 충실하고 현재를 즐길 줄 아는 나그네입니다.
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foycoyj2&count_bg=%23703EB1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 <!--![Yechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yechan&show_icons=true&theme=great-gatsby)-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oycoyj2)](https://solved.ac/oycoyj2/)
@@ -18,7 +18,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-### Tools
+### 🛠️Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellij%20IDEA-000000.svg?&style=for-the-badge&logo=intellij%20IDEA&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=Pycharm&logoColor=white)
